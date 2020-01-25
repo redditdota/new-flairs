@@ -1,0 +1,8 @@
+tokens.py*
+*.pyc
+*.swp
+*.swo
+.DS_Store
+*.pkl
+*.out
+log/
